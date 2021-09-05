@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">DailyAffirmations</string>
+    <string name="affirmation1"> I am truly grateful for my friends, family, and this life God has given me.</string>
+    <string name="affirmation2">I am always hopeful of the future.</string>
+    <string name="affirmation3">I am incredibly social and everyone has a good time around me.</string>
+    <string name="affirmation4">I am a stupendous conversationalist that can connect with anyone.</string>
+    <string name="affirmation5">I have no problem approaching strangers to talk to them.</string>
+    <string name="affirmation6">I am someone others admire for my achievements.</string>
+    <string name="affirmation7">I always make the most out of my time and think of ways to use it better.</string>
+    <string name="affirmation8">I am destined for greatness.</string>
+    <string name="affirmation9">I have chosen an amazing career.</string>
+    <string name="affirmation10">I have the desire, faith, and persistence necessary to achieve any goal I want.</string>
+    <string name="affirmation11">I have an unstoppable confidence that radiates at every moment.</string>
+    <string name="affirmation12">I am a natural leader that cares about those around me.</string>
+    <string name="affirmation13">I am living life for myself and not to please others.</string>
+    <string name="affirmation14">I am able to overcome any hardship with a smile on my face.</string>
+
 </resources>
